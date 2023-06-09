@@ -3,7 +3,6 @@
 
 ## 进学习群，获取最新版本
 
-![wx](https://raw.githubusercontent.com/hexiaochun/text2video/main/1471686320389_.pic.jpg)
 <img src="https://raw.githubusercontent.com/hexiaochun/text2video/main/1471686320389_.pic.jpg" alt="alt text" width="500"/>
 
 ## 更新了第一个版本
