@@ -1,6 +1,10 @@
 # text2video
 小说转视频，GPT拆解场景，自动批量画图
 
+## 进学习群，获取最新版本
+
+![wx]([http://url/to/image.jpg](https://raw.githubusercontent.com/hexiaochun/text2video/main/1471686320389_.pic.jpg))
+
 
 ## 更新了第一个版本
 1、sd一定要打开api的
