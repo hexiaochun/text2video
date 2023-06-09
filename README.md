@@ -3,7 +3,7 @@
 
 ## 进学习群，获取最新版本
 
-![wx]([http://url/to/image.jpg](https://raw.githubusercontent.com/hexiaochun/text2video/main/1471686320389_.pic.jpg))
+![wx](https://raw.githubusercontent.com/hexiaochun/text2video/main/1471686320389_.pic.jpg)
 
 
 ## 更新了第一个版本
