@@ -1,6 +1,9 @@
 # text2video
 小说转视频，GPT拆解场景，自动批量画图
 
+## 飞书详细操作流程
+https://snvazev2ds.feishu.cn/docx/S5oUdpjploxw96xYGGBccgAsnRh
+
 ## 进学习群，获取最新版本
 
 <img src="https://raw.githubusercontent.com/hexiaochun/text2video/main/1471686320389_.pic.jpg" alt="alt text" width="500"/>
