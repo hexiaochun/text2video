@@ -4,9 +4,14 @@
 ## 飞书详细操作流程
 https://snvazev2ds.feishu.cn/docx/S5oUdpjploxw96xYGGBccgAsnRh
 
+## B站视频教程
+https://www.bilibili.com/video/BV1wV4y1m7mS/?vd_source=9b80cc4b7a679d3c7ef7b68254de35fa
+
 ## 进学习群，获取最新版本
 
 <img src="https://raw.githubusercontent.com/hexiaochun/text2video/main/1471686320389_.pic.jpg" alt="alt text" width="500"/>
+
+
 
 ## 更新了第一个版本
 1、sd一定要打开api的
