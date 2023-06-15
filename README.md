@@ -14,6 +14,12 @@ https://www.bilibili.com/video/BV1wV4y1m7mS/?vd_source=9b80cc4b7a679d3c7ef7b6825
 ## 版本下载地址
 https://github.com/hexiaochun/text2video/releases
 
+
+## 6-15版本
+<img src="https://raw.githubusercontent.com/hexiaochun/text2video/main/WX20230615-215843@2x.png" alt="alt text" width="500"/>
+<img src="https://raw.githubusercontent.com/hexiaochun/text2video/main/WX20230615-215903@2x.png" alt="alt text" width="500"/>
+<img src="https://raw.githubusercontent.com/hexiaochun/text2video/main/WX20230615-215910@2x.png" alt="alt text" width="500"/>
+
 ## 更新了第一个版本
 1、sd一定要打开api的
 
