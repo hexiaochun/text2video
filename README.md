@@ -1,6 +1,10 @@
 # text2video
 小说转视频，GPT拆解场景，自动批量画图
 
+## 测试版发布地址
+
+https://snvazev2ds.feishu.cn/docx/P7Sld712PoFIvtxZXxXcO0q6nIe
+
 ## 飞书详细操作流程
 https://snvazev2ds.feishu.cn/docx/S5oUdpjploxw96xYGGBccgAsnRh
 
